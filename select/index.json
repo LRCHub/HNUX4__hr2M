@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コックリーク",
+  "base_artist": "AVACLUB",
+  "createdAt": "2026-02-25T06:34:10.575918Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コックリーク",
+      "artist": "AVACLUB",
+      "has_synced": false,
+      "path": "select/pl_01_コックリーク_AVACLUB.txt"
+    }
+  ]
+}
